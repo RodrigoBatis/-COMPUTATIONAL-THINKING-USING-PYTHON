@@ -34,6 +34,13 @@ else:
 
 #Exercicio 2
 
+if segundaIdade > primeiraIdade :
+    porcetagemIdade = (primeiraIdade/segundaIdade)
+    print("{} é {:.1%} mais velho que o {}".format(primeiroNome, porcetagemIdade, segundoNome))
+else:
+    porcetagemIdade = (segundaIdade / primeiraIdade)
+    print("{} é {:.1%} mais velho que o {}".format(segundoNome, porcetagemIdade, primeiroNome))
+
 #Exercicio 2 A e B
 
 if primeiraIdade > segundaIdade:
