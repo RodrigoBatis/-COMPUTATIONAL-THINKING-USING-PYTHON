@@ -7,7 +7,7 @@
 #
 # n=25.3454543454345
 #
-# #na hora de chamar a função, temos que fornecer um argumento que exista neste momento
+# #na hora de chamar a função, temos que fornecer um  quargumentoe exista neste momento
 # #tenho que passar algo que exista. Neste caso, 'n'
 # print_pctg(n)
 # print(n)
